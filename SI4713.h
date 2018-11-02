@@ -3,8 +3,9 @@
 //                                            //
 //  This is the driver software that runs     //
 // for the SI4713 unit, and FM Transmitter    //
+//        This acts as the hdr file.          //
 //                                            //
-//            Author: David Kroell           //
+//            Author: David Kroell            //
 //           Version: 0.0.1                   //
 //                                            //
 ////////////////////////////////////////////////
